@@ -18,12 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\lucas\source\repos\CRUD-de-ferramentas\Ferramenta\Ferramenta
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/lucas/source/repos/CRUD-de-ferramentas/Ferramenta/Ferramenta/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/lucas/source/repos/CRUD-de-ferramentas/Ferramenta/Ferramenta/Views/Ferramenta/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVycmFtZW50YVxGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucas/source/repos/CRUD-de-ferramentas/Ferramenta/Ferramenta/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/lucas/source/repos/CRUD-de-ferramentas/Ferramenta/Ferramenta/Views/Ferramenta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVycmFtZW50YVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lucas/source/repos/CRUD-de-ferramentas/Ferramenta/Ferramenta/Views/Shared/Error.cshtml]

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ferramenta", "Ferramenta\Ferramenta.csproj", "{3EF4BBAD-0317-4BF9-B2AD-89F1CC6C08BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ferramenta", "Ferramenta\Ferramenta.csproj", "{3EF4BBAD-0317-4BF9-B2AD-89F1CC6C08BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

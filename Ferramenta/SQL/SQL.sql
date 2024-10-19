@@ -41,7 +41,7 @@ go
  end
  go
 
-  create or alter procedure sp_delete_ferrementas(
+  create or alter procedure sp_delete_ferramentas(
 	@id int
  )
  as
@@ -50,7 +50,7 @@ go
  end
  go
 
- create or alter procedure sp_consulta_ferrementas(
+ create or alter procedure sp_consulta_ferramentas(
 	@id int
  )
  as
@@ -60,12 +60,27 @@ go
  go
 
  
- create or alter procedure sp_lista_ferrementas(
+ create or alter procedure sp_lista_ferramentas
+ as
+ begin
+	select * from ferramentas
+ end
+ go
+
+  create or alter procedure sp_consulta_fabricantes(
 	@id int
  )
  as
  begin
-	select * from ferramentas
+	select * from fabricantes where id = @id
+ end
+ go
+
+ 
+ create or alter procedure sp_lista_fabricantes
+ as
+ begin
+	select * from fabricantes
  end
  go
 
